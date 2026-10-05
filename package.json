@@ -1,0 +1,6 @@
+{
+  "name": "course-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js"
+}
