@@ -1,6 +1,3 @@
-// database.js
-// Simulates fetching data from a slow database using setTimeout + callbacks
-
 function fetchStudents(callback) {
   console.log('Fetching data from database...');
 
